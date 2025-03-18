@@ -1,0 +1,22 @@
+#body {
+	background-color: #02111B;
+	color: #FCFCFC;
+	font-family: courier;
+}
+#main {
+	background-color: #30292F;
+	border-radius: 10px;
+}
+#sub {
+	background-color: #3F4045;
+	border-radius: 10px;
+}
+#footer {
+	text-align: center;
+}
+/*buttons below*/
+#button {
+	background-color: #3F4045;
+	color: #FCFCFC;
+	font-family: courier;
+}
